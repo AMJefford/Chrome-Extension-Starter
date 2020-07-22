@@ -2,8 +2,8 @@
 {
     "manifest_version": 2,
 
-    "name": "Tasty",
-    "description": "Import ingredients from a tasty page to create a shopping list",
+    "name": "Change Colour Starter",
+    "description": "Changes colour of text extension from black to red",
     "version": "1.0",
 
     "browser_action": {
